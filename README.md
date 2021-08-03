@@ -1,4 +1,4 @@
-# LURA Lassonde Undergradutae Research Project
+# LURA Lassonde Undergradutae Research Project (Ongoing)
  Signal processing for identifying features in shotgun proteomics
  
 Abstract
